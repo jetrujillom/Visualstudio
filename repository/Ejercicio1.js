@@ -12,7 +12,7 @@ function multiplicacion() {
     }
 }
 
-var tabla=6;
+var tabla=7;
 var count = multiplicacion();
 
 for(i=0;i<10;i++){
